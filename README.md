@@ -1,1 +1,1 @@
-# chrome-new-window
+# New Window Zero Offset Extension for Chrome
