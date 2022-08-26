@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+
+  "name": "New Window Offset Zero",
+  "description": "A magic extension helper for removing the default offset for new windows.",
+  "version": "1.0.0",
+  "permissions": [
+    "tabs",
+    "background"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+
+}
